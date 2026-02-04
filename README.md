@@ -128,7 +128,6 @@ BurpAIBridge/
 ├── client_example.py    # Python client
 ├── README.md            # Documentation
 ├── LICENSE              # MIT License
-└── .gitignore           # Git ignore rules
 ```
 
 ## Troubleshooting
@@ -162,3 +161,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Author
 
 **Can Hieu**
+
